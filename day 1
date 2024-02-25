@@ -1,0 +1,42 @@
+#print("Day 1 - Python Print Function")
+#print("The function is defined like this")
+#print("print('what to print')")
+
+#print("Hello world!\nHello world!\nHelo world!\n")
+
+#print("Hello" + " " "Angela")
+
+#input("What is your name?")
+# print("Hello " + input("What is your name?" ))
+
+#function to print out number of letters in a name
+
+#print(len(input()))
+#variable
+# name = "jack"
+# print(name)
+
+# print(len(input("What is your name?")))
+
+# name = input("What is your name?")
+# length = len(name)
+# print(length)
+
+# a = input("")
+# b = input("")
+
+# swap = a
+# a = b
+# b = swap
+# print("a: " + a)
+# print("b: " + b)
+
+#band name generator
+print("Welcome to the band name generator")
+city = input("What is the name of the city that you grew up in?\n")
+pet = input("What's the name of your pet?\n")
+band_name = city + pet
+print("Your band name could be:" + band_name)
+
+
+
